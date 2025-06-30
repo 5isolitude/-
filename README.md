@@ -1,5 +1,7 @@
 - 源代码文件：https://disk.pku.edu.cn/link/AAC1EFF56FE6324AD9B3A44173602F3822  
 - 演示视频：https://disk.pku.edu.cn/link/AA7DF33880FE0B41B9B03DC516A820E4D0
+- 作业报告：https://disk.pku.edu.cn/link/AA1E5E4AF5FA3B464F848871AD7F84C9E7
+
 
 # 一、程序功能介绍
 ## 1. 优化可视化界面
