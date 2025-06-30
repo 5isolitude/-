@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/txt">
+        <file>course.txt</file>
+        <file>EnglishCourse.txt</file>
+        <file>help.txt</file>
+    </qresource>
+    <qresource prefix="/back">
+        <file>pkuBack.jpg</file>
+        <file>pkusky.jpg</file>
+        <file>pkuchoose.png</file>
+        <file>pkuchoose.jpg</file>
+        <file>sky.jpeg</file>
+    </qresource>
+</RCC>
